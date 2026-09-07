@@ -1,11 +1,11 @@
-<!-- Encabezado Principal y Banner Ajustado -->
+<!-- Encabezado Principal y Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jake%20Patrick%20Sanchez%20Santos&fontSize=35&fontColor=FFFFFF&desc=Estudiante%20de%20Sistemas%20|%20Entusiasta%20de%20la%20Tecnolog%C3%ADa&descSize=16&descColor=FFFFFF" />
 </div>
 
 <br>
 
-<!-- Sección "About Me" Ajustada -->
+<!-- Sección "About Me" con tu imagen personalizada -->
 <div align="center">
   <table>
     <tr>
@@ -16,7 +16,7 @@
         <p>Apasionado por la programación en Python y Java, el desarrollo web, la automatización y la administración de entornos Linux y servidores en la nube.</p>
       </td>
       <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200px"/>
+        <img src="https://github.com/JakeSanchez-dev/JakeSanchez-dev/blob/main/jakedev.png?raw=true" width="220px" style="border-radius: 10px;"/>
       </td>
     </tr>
   </table>
